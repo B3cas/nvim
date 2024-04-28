@@ -1,4 +1,5 @@
 Requesits
 Needs: 
-  node and npm Install on arch: sudo pacman -S nodejs npm
+  node npm unzip 
+  Install on arch: sudo pacman -S nodejs npm unzip
   
